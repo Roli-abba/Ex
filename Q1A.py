@@ -3,7 +3,7 @@ def isPalindrome(s):
  
  
 
-s = "Bernad"
+s = "abba"
 ans = isPalindrome(s)
  
 if ans:
